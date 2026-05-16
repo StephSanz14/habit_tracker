@@ -1,6 +1,6 @@
-# Habit Tracker
+# Water Habit Tracker
 
-Aplicacion para seguimiento de habitos personales.
+Aplicacion web simple para seguimiento de habitos de hidratacion.
 
 ## Stack
 
@@ -12,4 +12,4 @@ Aplicacion para seguimiento de habitos personales.
 
 ## Estado actual
 
-Documentacion en construccion.
+Spec alineada al brief en [WATER-TRACKER/spec.md](WATER-TRACKER/spec.md).
